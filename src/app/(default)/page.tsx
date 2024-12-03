@@ -10,7 +10,7 @@ export default function Home() {
         <Section id="about">
           <p className="mb-2 leading-tight">
             Hi, I'm Jonathan Roitgrund: software engineer, Imperial College
-            London MEng graduate, Google and Palantir alumni, and currently
+            London MEng graduate, Google and Palantir alumnus, and currently
             freelancing.
           </p>
           <p>
@@ -31,7 +31,7 @@ export default function Home() {
           <p className="mb-2 leading-tight">
             <HomeA
               className="text-yellow-500"
-              href="https://github.com/jroitgrund/boyohboy"
+              href="https://github.com/LeRetroProjecteur/website"
             >
               leretroprojecteur
             </HomeA>{" "}
@@ -79,7 +79,7 @@ export default function Home() {
           <p className="mb-2 leading-tight">
             <HomeA
               className="text-violet-500"
-              href="https://gitlab.com/jroitgrund/passmein"
+              href="https://github.com/jroitgrund/passmein"
             >
               passmein
             </HomeA>{" "}
