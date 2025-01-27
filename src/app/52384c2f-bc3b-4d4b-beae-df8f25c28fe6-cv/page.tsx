@@ -11,17 +11,10 @@ export default function Cv() {
           <div className="flex gap-16">
             <div className="flex w-1/2 flex-col">
               <Section>
-                <SectionHeader>
-                  beta.gouv (November 2024 - Present)
-                </SectionHeader>
+                <SectionHeader>taskwise (Jan 2025 - Present)</SectionHeader>
                 <CvUl>
                   <CvLi>
-                    From-scratch development of a platform to track publicly
-                    funded projects intiated by local communities
-                  </CvLi>
-                  <CvLi>
-                    Design of a synchronization protocol to keep all
-                    project-tracking tools up-to-date
+                    Full-stack development of an AI assistant for relocation
                   </CvLi>
                 </CvUl>
               </Section>
@@ -121,7 +114,7 @@ export default function Cv() {
                     <CvB>Code authoring service</CvB>: improved cold-start
                     performance tenfold and made session resumption after
                     connection drops instantaneous, added custom webhooks to our
-                    platformd's continuous integration tool
+                    platform's continuous integration tool
                   </CvLi>
                   <CvLi>
                     Created a company-wide GitHub bot to automatically fix lint
